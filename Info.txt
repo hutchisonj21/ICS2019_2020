@@ -1,0 +1,4 @@
+Name: Jayden
+Age: 16
+Favorite Color: Blue
+Class: ICS 2019-2020
