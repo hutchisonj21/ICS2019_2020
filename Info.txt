@@ -1,6 +1,6 @@
 Name: Jayden Hutchison
 Age: 16
 Favorite Color: Blue
-Class: ICS 2019-2020
+Class: Integrated Comp Science 2019-2020
 Class Period: 7
 Classroom: CIC 114
