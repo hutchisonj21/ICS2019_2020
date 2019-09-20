@@ -46,9 +46,6 @@ public class Program
 		bob.left(outerAngle);
 		bob.forward(50);
 		
-		//Turtle screen=bob.getscreen();
-		//screen.mainloop();
-		
 		n -= 1;
 		
 		//Uses recursion until the counter reaches 0
