@@ -1,0 +1,5 @@
+This program was written in python 3.7 using the libraries sci-kit lean, pandas, numpy, matplotlib.pyplot, and seaborn. The data were collected from
+https://www.kaggle.com/gsutters/the-human-freedom-index/data. Several unnecessary points of data were omitted. Six data points (procedural justice, civil justice, criminal justice, rule of
+law, homicide, and disappearances) were used as inputs. The data were not scaled. The neural network was trained with sixty-percent of the data and tested with the remaining forty. The
+hidden layer consisted of three layers each containing four nodes. The random_state was one, the cv was four, and the max_iter was two-thousand five-hundred. The accuracy of the neural
+network was represented by the percentage of inputs correctly matched to the outputs. This accuracy was verified by using cross validation. 
